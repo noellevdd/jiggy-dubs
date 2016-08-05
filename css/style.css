@@ -1,0 +1,191 @@
+/* GENERAL STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+body {
+	background-color:black;
+	font-family:'Oxygen';
+	font-style:normal;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h4 {
+	text-align: center;
+	color:white;
+}
+
+h5 {
+	text-align: center;
+	color:white;
+}
+h3 {
+	text-align: center;
+	color:white;
+}
+
+p {
+	text-align:center;
+	color:white;
+}
+
+/* HEADER STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#header {
+	background-color:black;
+}
+#menu-bar {
+	height:70px;
+	background-color:black;
+}
+
+#jiggy-dubs {
+	height:70px;
+	width:100%;
+	max-width:200px;
+	margin-left:auto;
+}
+
+nav {
+	text-align:center;
+}
+nav ul {
+	list-style: none;
+	display:block;
+	width: 100%;
+}
+
+nav li {
+	display: inline-block;
+	width:24%;
+	margin-top: 30px;
+	text-decoration: none;
+	text-align: center;
+	outline: none;
+	font-size: 18px;
+	color: white;
+}
+
+#social-media ul {
+	margin-left:40px;
+	list-style: none;
+	display:block;
+	width: 100%;
+}
+
+#social-media li {
+	display: inline-block;
+	width:24%;
+	margin-top: 30px;
+	text-decoration: none;
+	text-align: center;
+	outline: none;
+	font-size: 18px;
+	color: white;
+}
+#jd-logo {
+    background-image: url('../images/chicago.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#logo {
+	margin-right:5%;
+}
+
+
+/* FEATURE ONE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#bio {
+	padding-top:10%;
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom:8%;
+	background-color:black;
+	/*display:block;
+	float:left;
+	width:50%;
+	left:0;*/
+}
+
+
+#photo-container {
+	padding-top:8%;
+	padding-bottom:8%;
+	max-height:100%;
+}
+
+#skippy {
+	max-width:100%;
+	max-height:80%;
+}
+/* FEATURE TWO
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#soundcloud {
+	height:40%;
+	width:80%;
+	padding-top:30%;
+	padding-bottom:30%;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+#upcoming {
+	padding-top:17%;
+}
+
+.button-primary {
+	width:30%;
+	margin-left:35%;
+}
+
+#feature_two {
+	background-image: url('../images/pexels.png');
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* FEATURE THREE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#get-in-touch {
+	padding-top:10%;
+}
+
+form label {
+	color:white;
+}
+
+
+#contact-form {
+	padding-top:5%;
+	padding-left:10%;
+}
+
+#feature_three h5 {
+	margin-bottom:2%;
+}
+
+#footer {
+	padding-top:20%;
+}
+
+#footer p {
+	text-align:center;
+}
+
+/* FOOTER STYLE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* MEDIA QUERIES STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
